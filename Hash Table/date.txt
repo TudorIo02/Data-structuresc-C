@@ -1,0 +1,4 @@
+3,nh,3,vlad,5,500.5
+7,lido,2,anca,6,579.7
+2,afrodia,1,marius,4,675.3
+9,neptun,5,doina,2,23.6

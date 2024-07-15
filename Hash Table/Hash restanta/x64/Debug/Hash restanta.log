@@ -1,0 +1,4 @@
+﻿  hash.c
+C:\Users\User\Documents\SDD\Lucrate de mn\Hash restanta\hash.c(81,10): warning C4129: 'F': unrecognized character escape sequence
+C:\Users\User\Documents\SDD\Lucrate de mn\Hash restanta\hash.c(108,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Hash restanta.vcxproj -> C:\Users\User\Documents\SDD\Lucrate de mn\Hash restanta\x64\Debug\Hash restanta.exe
