@@ -1,0 +1,7 @@
+﻿  proj.c
+C:\Users\User\Documents\SDD\Lucrate de mn\ArbBin\proj.c(76,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\SDD\Lucrate de mn\ArbBin\proj.c(79,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\SDD\Lucrate de mn\ArbBin\proj.c(123,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\SDD\Lucrate de mn\ArbBin\proj.c(127,28): warning C4018: '>': signed/unsigned mismatch
+C:\Users\User\Documents\SDD\Lucrate de mn\ArbBin\proj.c(149,31): warning C4305: 'function': truncation from 'double' to 'float'
+  ArbBin.vcxproj -> C:\Users\User\Documents\SDD\Lucrate de mn\ArbBin\x64\Debug\ArbBin.exe
