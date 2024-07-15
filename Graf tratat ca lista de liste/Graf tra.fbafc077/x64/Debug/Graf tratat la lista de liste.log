@@ -1,0 +1,4 @@
+﻿  graf.c
+C:\Users\User\Documents\SDD\Graf tratat la lista de liste\graf.c(31,48): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\User\Documents\SDD\Graf tratat la lista de liste\graf.c(32,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+  Graf tratat la lista de liste.vcxproj -> C:\Users\User\Documents\SDD\Graf tratat la lista de liste\x64\Debug\Graf tratat la lista de liste.exe
