@@ -1,6 +1,0 @@
-﻿  LDS.c
-C:\Users\User\Documents\SDD\Lista Dubla Nebuna\LDS.c(79,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\User\Documents\SDD\Lista Dubla Nebuna\LDS.c(209,9): warning C4476: 'printf' : unknown type field character '^' in format specifier
-C:\Users\User\Documents\SDD\Lista Dubla Nebuna\LDS.c(209,9): warning C4476: 'printf' : unknown type field character '$' in format specifier
-C:\Users\User\Documents\SDD\Lista Dubla Nebuna\LDS.c(209,9): warning C4778: 'printf' : unterminated format string '%'
-  Lista Dubla Nebuna.vcxproj -> C:\Users\User\Documents\SDD\Lista Dubla Nebuna\x64\Debug\Lista Dubla Nebuna.exe
