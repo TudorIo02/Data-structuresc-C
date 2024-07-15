@@ -1,0 +1,6 @@
+﻿  listaSimpla.c
+C:\Users\User\Documents\SDD\Lista simpla\listaSimpla.c(126,2): warning C4047: 'return': 'Nod *' differs in levels of indirection from 'Nod **'
+C:\Users\User\Documents\SDD\Lista simpla\listaSimpla.c(132,49): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Documents\SDD\Lista simpla\listaSimpla.c(133,50): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\User\Documents\SDD\Lista simpla\listaSimpla.c(134,50): warning C4305: 'function': truncation from 'double' to 'float'
+  Lista simpla.vcxproj -> C:\Users\User\Documents\SDD\Lista simpla\x64\Debug\Lista simpla.exe
